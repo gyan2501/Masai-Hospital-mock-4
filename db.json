@@ -1,3 +1,18 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "harry",
+      "email": "harry@gmail.com",
+      "password": "1234",
+      "isDoctor": true,
+      "id": 1
+    },
+    {
+      "username": "gyanp",
+      "email": "gyan@gmail.com",
+      "password": "zxcv",
+      "isDoctor": false,
+      "id": 2
+    }
+  ]
 }
