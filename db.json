@@ -14,5 +14,29 @@
       "isDoctor": false,
       "id": 2
     }
+  ],
+  "appointments": [
+    {
+      "name": "Gyan Prakash",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kmccosw0/shirt/m/k/z/m-mss21eppsh015a-metronaut-original-imagf9n4fe9hj8zd.jpeg?q=50",
+      "specialization": "Cardiologist",
+      "experience": "4",
+      "location": "gandhinagar",
+      "date": "2023-05-25T16:37",
+      "slots": "2",
+      "fee": "123",
+      "id": 1
+    },
+    {
+      "name": "MAMTA SINGH",
+      "image": "https://rukminim1.flixcart.com/image/580/696/kmccosw0/shirt/m/k/z/m-mss21eppsh015a-metronaut-original-imagf9n4fe9hj8zd.jpeg?q=50",
+      "specialization": "Dermatologist",
+      "experience": "4",
+      "location": "adi",
+      "date": "2023-05-25T15:37",
+      "slots": "3",
+      "fee": "150",
+      "id": 2
+    }
   ]
 }
